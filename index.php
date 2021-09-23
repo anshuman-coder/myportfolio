@@ -141,7 +141,7 @@
 
         <div class="about__data">
           <p class="about__description">I'm Anshuman Singh from Lucknow, 22 years old and currently pursuing my Bachelor of Engineering from Chandigarh University by holding 6.9 CGPA.
-            I have knowledge in full stack web development with different frameworks but currently I'm working on MERN stack WebDev technologies and looking forward to build a career in the field.
+            I have knowledge in full stack web development with different frameworks but currently I'm working on MERN stack WebDev technologies and looking forward to build a career in this field.
             Scaling myself as a Beginner level developer and always curious to learn.
           </p>
 
